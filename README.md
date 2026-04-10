@@ -20,7 +20,7 @@ A simple command-line tool that takes any URL and converts it into a QR code ima
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/your-username/qr-code-generator.git
+   git clone https://github.com/https://palakryadav05/qr-code-generator.git
    ```
 
 2. Navigate into the folder
