@@ -46,7 +46,6 @@ A simple command-line tool that takes any URL and converts it into a QR code ima
 qr-code-generator/
 ├── index.js
 ├── package.json
-├── .gitignore
 ├── qr_img.png      ← generated after running
 └── URL.txt         ← generated after running
 ```
